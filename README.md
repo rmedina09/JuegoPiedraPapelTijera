@@ -1,7 +1,8 @@
 # JuegoPiedraPapelTijera
 Implementación del juego tradicional "Piedra, Papel o Tijera".
 
-##Autor 
+------------------------------
+###Autor 
 Raúl Medina Peña
 
 Lenguaje de programción : JavaScript, HTML.
